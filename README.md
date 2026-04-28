@@ -10,9 +10,9 @@ You can find more details one my [portfolio page](https://A-Phipps.github.io).
 
 ## Featured Projects
 
-- SQL analytics notebook (link to pinned repo)
-- Python ETL pipeline (link to pinned repo)
-- AWS Project (link to pinned repo)
+- SQL analytics notebook ([link to pinned repo](https://github.com/A-Phipps/cmse492-hw02-phippsa1.git))
+- Python ETL pipeline ([link to pinned repo](https://github.com/A-Phipps/cmse492-hw01-phippsa1.git))
+- AWS Project ([link to pinned repo](https://github.com/A-Phipps/aws-nyc311-phippsa1.git))
 
 ## Skills
 
@@ -22,4 +22,4 @@ You can find more details one my [portfolio page](https://A-Phipps.github.io).
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/aubrey-phipps) | [Email](phippsa1@msu.edu)
+[LinkedIn](https://www.linkedin.com/in/aubrey-phipps) | [Email](phippsa1@msu.edu)
