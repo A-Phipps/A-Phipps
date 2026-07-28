@@ -6,7 +6,7 @@ Aspiring data scientist @ MSU | SQL, Python, Git, reproducible workflows
 
 Building end-to-end data pipelines for business problems. Coursework in modern tools based on industry needs.
 
-You can find more details one my [portfolio page](https://A-Phipps.github.io).
+You can find more details on my [portfolio page](https://A-Phipps.github.io).
 
 ## Featured Projects
 
